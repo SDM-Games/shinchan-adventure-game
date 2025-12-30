@@ -1,2 +1,7 @@
-# shinchan-adventure-game
-My first 3d Adventure Game 
+# Shinchan Game 🎮
+
+This is my first game project.
+
+Developer: SDM  
+Platform: Web / Android (future)  
+Status: Under Development
